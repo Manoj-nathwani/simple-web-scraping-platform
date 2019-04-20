@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/VsUwCLR.png)
-This is a simple platform which you can run locally to test simple web scrapers. This is super simple though, so there's no support for web browsers to run javascript or anything else fancier than regular HTTP GET requests.
+- This is a simple platform which you can run locally to test simple web scrapers.
+- There's no support for web browsers to run javascript or anything else fancier other than regular HTTP GET requests at this time.
 
 ## Setup
 Install the required python libraries:
